@@ -19,13 +19,11 @@
 
 
 В качестве тестовых данных использовались данные <www.getcreditcardnumbers.com>:
-* <5351719427810741 ОР: Result is OK>
-* <VISA 4024007142979862-Result is OK >
+* <VISA 4024007142979862 - Result is OK >
 * <Mastercard 5145536500177736 - Result is OK>
 * <Discover 6011840501468865 - Result is OK>
-* < - Result is OK>
+* <American Express 379901080455092 - Result is OK>
 
 Тестирование производилось в следующем окружении:
 * <ОС: Windows 10, x64>
 * <версия Java>
-* <другое ПО, при необходимости>
