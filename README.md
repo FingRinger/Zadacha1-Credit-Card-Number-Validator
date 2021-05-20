@@ -24,4 +24,7 @@
 
 Тестирование производилось в следующем окружении:
 * ОС: Windows 10, x64
-* версия Java
+* версия Java:
+  openjdk version "11.0.11" 2021-04-20
+  OpenJDK Runtime Environment AdoptOpenJDK-11.0.11+9 (build 11.0.11+9)
+  OpenJDK 64-Bit Server VM AdoptOpenJDK-11.0.11+9 (build 11.0.11+9, mixed mode)
