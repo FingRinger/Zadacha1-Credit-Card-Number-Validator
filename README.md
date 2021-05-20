@@ -16,7 +16,7 @@
 * Отчет о тестировании
 
 
-В качестве тестовых данных использовались данные <www.getcreditcardnumbers.com>:
+В качестве тестовых данных использовались данные www.getcreditcardnumbers.com:
 * VISA 4024007142979862 - Result is OK 
 * Mastercard 5145536500177736 - Result is OK
 * Discover 6011840501468865 - Result is OK
